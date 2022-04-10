@@ -1,0 +1,21 @@
+{
+    "name": "jas-n/geohome",
+    "type": "project",
+    "description": "GeoHome PHP",
+    "version": "0.1.0",
+    "keywords": [
+        "geo",
+        "geohome",
+        "smartmeter"
+    ],
+    "license": "MIT",
+    "repositories": [
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
