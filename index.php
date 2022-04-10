@@ -1,3 +1,5 @@
 <?php include('vendor/autoload.php');
 
-new Jasn\Geohome;
+use Jasn\Geohome\Geohome;
+
+new Geohome();
